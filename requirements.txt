@@ -1,0 +1,4 @@
+beautifulsoup4==4.9.0
+pdftotext==2.1.4
+soupsieve==2.0
+urllib3==1.25.8
